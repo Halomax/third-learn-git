@@ -1,2 +1,6 @@
 # third-learn-git
-zhe shi 3 dddod master
+<<<<<<< HEAD
+zhe shi 3 dddd dev-master
+=======
+zhe shi 3 dddd dev
+>>>>>>> dev
